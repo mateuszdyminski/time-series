@@ -5,7 +5,7 @@
   "author": "md",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.6.9",
+    "angular": "^1.8.3",
     "angular-leaflet-directive": "^0.10.0",
     "angular-route": "^1.6.9",
     "angular-simple-logger": "^0.1.7",
